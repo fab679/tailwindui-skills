@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "tailwindui-skills",
+  "displayName": "Tailwind UI Skills",
+  "description": "Nine skills for designing and building distinctive, non-generic UIs with Tailwind CSS: design foundations (Refactoring UI), anti-generic design + audits, brand planning, Tailwind v4 docs lookup, Headless UI, tailwind-merge, typography, dark mode, and Heroicons.",
+  "author": {
+    "name": "fab679",
+    "url": "https://github.com/fab679"
+  },
+  "homepage": "https://github.com/fab679/tailwindui-skills",
+  "repository": "https://github.com/fab679/tailwindui-skills",
+  "license": "MIT",
+  "keywords": ["tailwind", "tailwindcss", "ui", "design", "headless-ui", "heroicons", "skills"]
+}

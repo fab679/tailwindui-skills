@@ -1,0 +1,15 @@
+{
+  "name": "tailwindui-skills",
+  "owner": {
+    "name": "fab679",
+    "url": "https://github.com/fab679"
+  },
+  "description": "Skills collection for building better, non-generic UIs with Tailwind CSS",
+  "plugins": [
+    {
+      "name": "tailwindui-skills",
+      "source": "./",
+      "description": "Nine skills for designing and building distinctive, non-generic UIs with Tailwind CSS"
+    }
+  ]
+}

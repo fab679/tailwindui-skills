@@ -1,0 +1,13 @@
+# Never publish: copyrighted material, local caches, tooling
+*.pdf
+node_modules/
+.plans/
+.hallmark/
+
+# Local caches written by the fetch scripts (regenerate with the scripts)
+skills/tailwind-docs/docs/*.mdx
+skills/tailwind-docs/docs/colors.ts
+skills/headless-ui/docs/*.md
+
+# OS/editor noise
+.DS_Store
